@@ -20,14 +20,11 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnbom1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-
          
 ## Ferramentas e Tecnologias
 <div>
 <div style="display: inline_block"><br>
           
-
 <img align="center" alt="Formando-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
 </div>
@@ -51,6 +48,9 @@ Here are some ideas to get you started:
 <img align="center" alt="Formando-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
        
  </div>
+          
+          
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 
 
