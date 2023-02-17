@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnbom1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
- ![Snake animation](https://github.com/johnbom1/johnbom1/blob/output/github-contribution-grid-snake.svg)
-
+ ![Snake animation](https://github.com/johnbom1/blob/output/github-contribution-grid-snake.svg)
+          
+<div>
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
+</div>
 
 ## Estou aprendendo
 
