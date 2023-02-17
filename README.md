@@ -22,8 +22,10 @@ Here are some ideas to get you started:
           
  ![Snake animation](https://github.com/johnbom1/blob/output/github-contribution-grid-snake.svg)
           
-<div>
+
 ## Ferramentas e Tecnologias
+          
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
