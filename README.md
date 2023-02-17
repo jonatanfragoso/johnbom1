@@ -24,21 +24,20 @@ Here are some ideas to get you started:
 
          
 ## Ferramentas e Tecnologias
-<div align="center">
+<div>
 <div style="display: inline_block"><br>
           
 
 <img align="center" alt="Formando-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
- </div>
- </div>
+</div>
+</div>
 </br>
           
 
-
-
 ## Estou aprendendo
-<div align="center">
+
+<div>
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Formando-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
