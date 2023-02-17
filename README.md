@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnbom1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
- ![Snake animation](https://github.com/johnbom1/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.4
+
           
 
 ## Ferramentas e Tecnologias
