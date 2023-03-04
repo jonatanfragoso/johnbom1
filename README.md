@@ -5,9 +5,9 @@
 - 🌱 Atualmente estou aprendendo Angular e Java com Springboot para Back-end.
 
 <div>
-<a href="https://github.com/johnbom1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnbom1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbom1&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/jonatanfragoso">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatanfragoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanfragoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
           
 
